@@ -29,6 +29,10 @@ You can get the deployed contract's ID: the TXID and the output index where the 
 
 Copy the deployment TxID then change the value of ContractId in file src/App.tsx:
 
-3. run
+3.overwrite the App files in frontend and run
+
+App.tsx is for fund
+
+app.tsx is for pay
 
 $npm start
