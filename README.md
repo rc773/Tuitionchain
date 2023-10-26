@@ -5,7 +5,7 @@ Tuition chain is a tool for personal educational funds management which allows y
 
 In this demo we use hypothetical students in api file, you can change these manually. 
 
-To set up your contracts, you may use sensilet wallets on https://chrome.google.com/webstore/detail/sensilet/aadkcfdlmiddiiibdnhfbpbmfcaoknkm to get bsv on your address 
+To set up your contracts, you may use sensilet wallets on https://chrome.google.com/webstore/detail/sensilet/aadkcfdlmiddiiibdnhfbpbmfcaoknkm to get testnet bsv on your address by https://scrypt.io/faucet/
 
 1.craete scaffold
 
