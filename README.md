@@ -17,6 +17,7 @@ $npx scrypt-cli init
 
 This command will create a contract file at src\contracts\voting.ts, replace the content of the file with the contract from contracts file
 
+
 2.complie and deployment
 
 $npx scrypt-cli compile
@@ -36,3 +37,6 @@ App.tsx is for fund
 app.tsx is for pay
 
 $npm start
+
+
+Note: you might change the files name in the codes based on your project
